@@ -62,6 +62,6 @@ def generate_depth_map(image_path, output_path):
 
 # Run for one image (updated file name for safety)
 generate_depth_map(
-    "C:/Users/RASHA SINHA/OneDrive/Desktop/2D3DBLENDER/images/apple.jpg",
+    "C:/Users/RASHA SINHA/OneDrive/Desktop/2D3DBLENDER/images/apple.jpg",  #change the path acc. to your computer
     "C:/Users/RASHA SINHA/OneDrive/Desktop/2D3DBLENDER/depth_maps/apple_depth.jpg"
 )
